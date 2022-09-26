@@ -1,0 +1,4 @@
+#! /bin/bash
+
+#run python script in the environment variable $PYFILE
+python $PYFILE
